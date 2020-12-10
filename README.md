@@ -59,9 +59,6 @@ If you would like to design an automatic test for this application feel free to 
 ## Challenges
 The only challenge I experience with this application was creating the offline capabilities. This was something I have never done before or used before. I used the videos from class and did research online to be able to accomplished the offline capabilities. I was able to successfully use manifest.json and service-worker and db.js to cache the information for offline use.
 
-## Questions
-If you have questions about this repository? Please contact me at [kamara.moses@yahoo.com](mailto:kamara.moses@yahoo.com). View more of my work in GitHub at [kamara-moses](https://github.com/kamara-moses).
-
 ## License
 This repository is licensed under the MIT license.
 
