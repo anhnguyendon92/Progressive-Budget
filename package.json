@@ -5,8 +5,10 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
+    "start": "node server.js",
+    "lite-server": "lite-server",
+    "watch": "nodemon server.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anhnguyendon92/Progressive-Budget.git"
@@ -19,6 +21,7 @@
   },
   "homepage": "https://github.com/anhnguyendon92/Progressive-Budget#readme",
   "dependencies": {
+    "chart.js": "^2.9.4",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lite-server": "^2.6.1",
