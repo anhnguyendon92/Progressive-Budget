@@ -4,9 +4,6 @@
 ## Description:
 This application allows a user to track funds in a budget by entering transactions. It uses progressive web application technology to provide functionality while offline - transactions are able to be entered and saved and post to the database when the app returns to an online state.
 
-![Pro Budget Demo](public/assets/images/pro-budget.gif)
-
-<img src="public/assets/images/tracker.png" alt="Pro Budget Tracker image">
 
 ## Technologies:
 - Node.js
