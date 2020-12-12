@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://localhost/Progressive-Budget", {
+mongoose.connect("mongodb://localhost/progressive-budget17", {
     useNewUrlParser: true,
     useFindAndModify: false
 });
